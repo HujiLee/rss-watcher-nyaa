@@ -9,10 +9,6 @@
   "bin": {
     "rss-watcher": "./bin/rss-watcher"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nikezono/node-rss-watcher.git"
-  },
   "dependencies": {
     "async": "~2.6.1",
     "colors": "~1.3.0",
@@ -45,8 +41,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nikezono/node-rss-watcher/issues"
-  },
-  "__npminstall_done": "Fri Jan 04 2019 19:01:12 GMT+0800 (GMT+08:00)",
-  "_from": "rss-watcher@1.4.0",
-  "_resolved": "http://registry.npm.taobao.org/rss-watcher/download/rss-watcher-1.4.0.tgz"
+  }
 }
